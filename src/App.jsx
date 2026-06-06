@@ -176,7 +176,7 @@ function App() {
         </h2>
 
         <p className="text-slate-600 leading-7 text-sm md:text-base">
-          Mahasiswa Teknik Informatika Universitas Ibn Khaldun Bogor
+          Lulusan Teknik Informatika Universitas Ibn Khaldun Bogor
           dengan ketertarikan pada pengembangan aplikasi web,
           sistem informasi, technical documentation,
           dan pengelolaan data.
